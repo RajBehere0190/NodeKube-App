@@ -22,3 +22,9 @@ NodeKubeApp is a sample Node.js application deployed on a Kubernetes cluster. Th
  ![image](https://github.com/user-attachments/assets/6023c390-1a8b-4297-96cb-ae4ead51a339)
 
 **Note :** Here I have used the image of the node-demo-app from philippaul docker repository but if wants to customize own image I have provided the Dockerfile.
+
+## Prerequisites
+
+- Docker
+- Minikube
+- kubectl
